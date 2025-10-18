@@ -3,8 +3,8 @@ const nextConfig = {
   images: {
     // Si usás imágenes REMOTAS, agregá sus dominios aquí:
     remotePatterns: [
-      // { protocol: 'https', hostname: 'images.unsplash.com' },
-      // { protocol: 'https', hostname: 'upload.wikimedia.org' },
+      { protocol: 'https', hostname: 'images.unsplash.com' },
+      { protocol: 'https', hostname: 'upload.wikimedia.org' },
     ],
     // Si usás SVG con <Image/>, lo podés mantener:
     dangerouslyAllowSVG: true,
