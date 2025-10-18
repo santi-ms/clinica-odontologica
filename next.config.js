@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
+    // Deshabilitar optimización de imágenes temporalmente
+    unoptimized: true,
     // Si usás imágenes REMOTAS, agregá sus dominios aquí:
     remotePatterns: [
       { protocol: 'https', hostname: 'images.unsplash.com' },
