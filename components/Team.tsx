@@ -47,7 +47,7 @@ const teamMembers = [
     name: 'Dr. Miguel Torres',
     specialty: 'Endodoncia',
     credentials: 'Mat. 44444 - Universidad de Mendoza',
-        image: '/images/equipohombre4.jpg',
+        image: '/images/equipohombre3.jpg',
     experience: '9 años',
     description: 'Especialista en tratamientos de conducto y preservación dental.'
   }
