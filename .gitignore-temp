@@ -1,4 +1,4 @@
-# Imágenes grandes temporalmente excluidas
+# Archivos grandes temporalmente excluidos para GitHub
 public/images/equipohombre4.jpg
 public/images/radiografia.jpg
 public/images/equipohombre2.jpg
@@ -12,3 +12,7 @@ public/images/equipomujer3.jpg
 public/images/odontopediatria.jpg
 public/images/equipohombre1.jpg
 public/images/equipomujer1.jpg
+
+# Archivos temporales
+.gitignore-temp
+optimize-images.ps1
